@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: December 14, 2020 1:30 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.52
+WORDPRESS:	5.6
+PHP INFO:	7.3.21 | SAPI: apache2handler
+SERVER:		Apache/2.4.46 (Win64) PHP/7.3.21 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 2MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20201214_myrestau_097f5c909191eda55919_20201214132917_database.sql 
+SQL FILE SIZE: 123.08KB (126037) 
+SQL FILE TIME: 2020-12-14 13:30:12 
+SQL RUNTIME: 0.87 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/wamp64/www/myresto 
+ARCHIVE FILE: 20201214_myrestau_097f5c909191eda55919_20201214132917_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	56.4MB 
+STATS:	Dirs 401 | Files 2,574 
+SQL ADDED: 20201214_myrestau_097f5c909191eda55919_20201214132917_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2975
+    [filename] => C:\wamp64\www\myresto\wp-snapshots\tmp\20201214_myrestau_097f5c909191eda55919_20201214132917_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 19.74MB 
+ARCHIVE RUNTIME: 51.01 sec. 
+MEMORY STACK: 2MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preparing for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [C:/wamp64/www/myresto/wp-snapshots/tmp/20201214_myrestau_097f5c909191eda55919_20201214132917_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 123.08KB 
+Installer File: 514.14KB 
+Archive File: 19.74MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 63.82 sec.
+PEAK PHP MEMORY USED: 4MB
+DONE PROCESSING => 20201214_myrestau December 14, 2020 1:31 pm
+ 
